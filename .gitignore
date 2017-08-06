@@ -1,0 +1,8 @@
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+Gemfile.lock
+.ruby-version
+.ruby-gemset
+core-ruby-practise.iml
+.idea
